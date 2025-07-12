@@ -1,3 +1,11 @@
+# 👋 Bem-vindo ao meu perfil!
+
+Sou Lucas Sena, desenvolvedor em formação com foco em front-end.  
+Atualmente estudando **HTML**, **CSS** e **JavaScript**.  
+Buscando minha transição para a área de tecnologia com projetos criativos e funcionais.
+
+🔗 Confira meus projetos: [github.com/lsenaaquino](https://github.com/lsenaaquino)
+
 ## 📊 GitHub Stats
 
 ![Lucas Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsenaaquino&show_icons=true&theme=tokyonight&rank_icon=default)
